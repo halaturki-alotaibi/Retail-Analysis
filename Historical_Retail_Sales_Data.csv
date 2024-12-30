@@ -1,0 +1,916 @@
+Transaction;Date;Item;Amount;Store Location;Country
+T9218;01/06/24;Butter;13.03;Los Angeles;United States
+T6324;01/06/24;Banana;14.54;Houston;United States
+T3826;01/06/24;Cheese;7.42;Los Angeles;United States
+T9061;01/06/24;Eggs;9.47;New York;United States
+T2675;01/06/24;Apple;6.12;San Francisco;United States
+T2617;02/06/24;Orange;9.4;Houston;United States
+T3006;02/06/24;Butter;0.89;Houston;United States
+T4722;02/06/24;Apple;18.04;New York;United States
+T1899;02/06/24;Cheese;14;New York;United States
+T6795;02/06/24;Orange;14.15;Chicago;United States
+T6716;03/06/24;Cheese;7.86;San Francisco;United States
+T1162;03/06/24;Butter;15.77;San Francisco;United States
+T3280;03/06/24;Butter;8.52;Chicago;United States
+T8112;03/06/24;Butter;18.75;Houston;United States
+T2659;03/06/24;Orange;15.87;Houston;United States
+T1922;04/06/24;Bread;5.09;Chicago;United States
+T2810;04/06/24;Apple;16.53;New York;United States
+T1407;04/06/24;Cheese;0.66;Los Angeles;United States
+T1296;04/06/24;Apple;4.21;Los Angeles;United States
+T7905;04/06/24;Milk;13.01;Los Angeles;United States
+T2701;05/06/24;Bread;3.87;San Francisco;United States
+T6327;05/06/24;Banana;19.29;Chicago;United States
+T4158;05/06/24;Butter;8.81;Houston;United States
+T1589;05/06/24;Orange;19.01;Chicago;United States
+T8644;05/06/24;Milk;7.26;San Francisco;United States
+T1411;06/06/24;Orange;14.71;Houston;United States
+T4980;06/06/24;Bread;17.69;Los Angeles;United States
+T8188;06/06/24;Cheese;17.6;Los Angeles;United States
+T3301;06/06/24;Cheese;1.09;New York;United States
+T4463;06/06/24;Bread;1.01;Chicago;United States
+T9414;07/06/24;Eggs;18.26;New York;United States
+T4370;07/06/24;Milk;18.88;Houston;United States
+T9422;07/06/24;Eggs;1.42;New York;United States
+T6238;07/06/24;Apple;18.06;Chicago;United States
+T7324;07/06/24;Apple;6.14;Houston;United States
+T8324;08/06/24;Banana;7.08;Chicago;United States
+T1587;08/06/24;Eggs;13.95;Los Angeles;United States
+T3415;08/06/24;Butter;14.54;San Francisco;United States
+T3775;08/06/24;Orange;13.93;Los Angeles;United States
+T2796;08/06/24;Bread;18.48;New York;United States
+T6709;09/06/24;Orange;2.43;New York;United States
+T6144;09/06/24;Banana;5.04;Houston;United States
+T5866;09/06/24;Bread;15.29;Los Angeles;United States
+T5268;09/06/24;Apple;17.48;Houston;United States
+T3111;09/06/24;Eggs;10.46;Houston;United States
+T4990;10/06/24;Butter;7.12;New York;United States
+T8519;10/06/24;Eggs;3.23;New York;United States
+T9501;10/06/24;Banana;17.29;Los Angeles;United States
+T6014;10/06/24;Cheese;2.21;New York;United States
+T2167;10/06/24;Orange;13.61;San Francisco;United States
+T5523;11/06/24;Milk;11.95;Chicago;United States
+T3250;11/06/24;Banana;4.51;Chicago;United States
+T5143;11/06/24;Bread;7.97;Houston;United States
+T9986;11/06/24;Eggs;19.49;San Francisco;United States
+T3845;11/06/24;Apple;3.95;Chicago;United States
+T9595;12/06/24;Butter;4.61;San Francisco;United States
+T8599;12/06/24;Banana;16.48;New York;United States
+T2579;12/06/24;Cheese;12.93;Houston;United States
+T5187;12/06/24;Eggs;6.09;Houston;United States
+T2215;12/06/24;Orange;10.26;Houston;United States
+T6162;13/06/24;Butter;0.92;San Francisco;United States
+T4867;13/06/24;Bread;3.12;Chicago;United States
+T2672;13/06/24;Apple;13.49;New York;United States
+T7247;13/06/24;Milk;7.09;Houston;United States
+T6268;13/06/24;Banana;3.22;Houston;United States
+T1993;14/06/24;Orange;7.02;San Francisco;United States
+T1210;14/06/24;Banana;6.86;Los Angeles;United States
+T3535;14/06/24;Orange;16.82;Los Angeles;United States
+T2243;14/06/24;Bread;6.29;San Francisco;United States
+T5313;14/06/24;Banana;16.77;San Francisco;United States
+T3527;15/06/24;Milk;9.72;Chicago;United States
+T6294;15/06/24;Bread;10.74;Los Angeles;United States
+T5685;15/06/24;Orange;8.1;Chicago;United States
+T8411;15/06/24;Banana;12.58;Los Angeles;United States
+T6050;15/06/24;Cheese;17.79;Los Angeles;United States
+T8018;16/06/24;Apple;3.54;New York;United States
+T2212;16/06/24;Orange;14.31;New York;United States
+T2121;16/06/24;Eggs;10.91;New York;United States
+T6097;16/06/24;Bread;3.93;Chicago;United States
+T7184;16/06/24;Cheese;11.88;Houston;United States
+T3483;17/06/24;Eggs;17.37;Los Angeles;United States
+T2465;17/06/24;Cheese;0.74;New York;United States
+T5898;17/06/24;Eggs;10.7;San Francisco;United States
+T4164;17/06/24;Eggs;13.39;Chicago;United States
+T9624;17/06/24;Orange;9.3;Houston;United States
+T5097;18/06/24;Apple;3.95;San Francisco;United States
+T5855;18/06/24;Apple;11.63;New York;United States
+T7436;18/06/24;Butter;4.09;Houston;United States
+T1900;18/06/24;Orange;6.73;Chicago;United States
+T1853;18/06/24;Cheese;8.59;New York;United States
+T2342;19/06/24;Banana;16.08;Los Angeles;United States
+T7988;19/06/24;Butter;17.15;Chicago;United States
+T1408;19/06/24;Bread;12.79;San Francisco;United States
+T9287;19/06/24;Milk;16.99;Houston;United States
+T9678;19/06/24;Eggs;3.35;Chicago;United States
+T2594;20/06/24;Bread;4.15;San Francisco;United States
+T6149;20/06/24;Butter;8.09;Los Angeles;United States
+T2808;20/06/24;Orange;14.01;New York;United States
+T4804;20/06/24;Banana;1.13;Los Angeles;United States
+T7131;20/06/24;Cheese;16.97;San Francisco;United States
+T6921;21/06/24;Cheese;9.75;Houston;United States
+T3076;21/06/24;Banana;12.38;New York;United States
+T3902;21/06/24;Bread;1.8;Houston;United States
+T9515;21/06/24;Bread;17.18;New York;United States
+T8777;21/06/24;Cheese;5.11;Chicago;United States
+T1614;22/06/24;Butter;8.38;New York;United States
+T5402;22/06/24;Butter;8.91;Chicago;United States
+T6368;22/06/24;Eggs;18.06;Los Angeles;United States
+T3915;22/06/24;Bread;7.37;Houston;United States
+T2885;22/06/24;Butter;15.4;Chicago;United States
+T3265;23/06/24;Butter;9.38;San Francisco;United States
+T5431;23/06/24;Bread;19.45;San Francisco;United States
+T6206;23/06/24;Butter;0.51;Chicago;United States
+T9501;23/06/24;Bread;8.19;Los Angeles;United States
+T6469;23/06/24;Cheese;13.82;San Francisco;United States
+T1916;24/06/24;Eggs;3.01;New York;United States
+T8940;24/06/24;Milk;10.52;New York;United States
+T3656;24/06/24;Orange;1.96;San Francisco;United States
+T3721;24/06/24;Apple;6.08;Chicago;United States
+T1368;24/06/24;Banana;19.78;Los Angeles;United States
+T7535;25/06/24;Eggs;3.21;Chicago;United States
+T5303;25/06/24;Milk;17.41;Houston;United States
+T7847;25/06/24;Banana;15.44;San Francisco;United States
+T5645;25/06/24;Milk;12.77;New York;United States
+T1462;25/06/24;Milk;10.57;New York;United States
+T6622;26/06/24;Eggs;10.38;New York;United States
+T3180;26/06/24;Bread;3.02;San Francisco;United States
+T6579;26/06/24;Milk;4.33;Houston;United States
+T1234;26/06/24;Eggs;15.01;Los Angeles;United States
+T7912;26/06/24;Banana;4.85;Los Angeles;United States
+T3189;27/06/24;Orange;8.87;Los Angeles;United States
+T9499;27/06/24;Bread;18.3;San Francisco;United States
+T3084;27/06/24;Apple;8.15;San Francisco;United States
+T4935;27/06/24;Eggs;15.15;Chicago;United States
+T4119;27/06/24;Milk;16.28;Los Angeles;United States
+T8569;28/06/24;Eggs;9.43;Los Angeles;United States
+T3115;28/06/24;Eggs;15.75;Los Angeles;United States
+T3601;28/06/24;Butter;13.92;San Francisco;United States
+T6112;28/06/24;Apple;18.6;Houston;United States
+T5719;28/06/24;Apple;7.69;New York;United States
+T2380;29/06/24;Cheese;5.41;San Francisco;United States
+T4958;29/06/24;Bread;3.72;New York;United States
+T2940;29/06/24;Orange;14.12;New York;United States
+T3651;29/06/24;Orange;7.73;San Francisco;United States
+T8814;29/06/24;Butter;10.05;New York;United States
+T5861;30/06/24;Milk;19.6;Los Angeles;United States
+T5769;30/06/24;Butter;4.52;Houston;United States
+T9835;30/06/24;Bread;2.58;New York;United States
+T9277;30/06/24;Orange;13.95;Chicago;United States
+T8925;30/06/24;Milk;14.76;Chicago;United States
+T7590;01/07/24;Bread;18.52;New York;United States
+T9250;01/07/24;Banana;11.36;New York;United States
+T3140;01/07/24;Cheese;19.47;Houston;United States
+T4102;01/07/24;Milk;3.3;Chicago;United States
+T1527;01/07/24;Apple;13.35;Los Angeles;United States
+T2994;02/07/24;Cheese;4.34;Chicago;United States
+T8324;02/07/24;Cheese;5.93;Houston;United States
+T7177;02/07/24;Banana;18.86;Houston;United States
+T8831;02/07/24;Milk;15.34;San Francisco;United States
+T5652;02/07/24;Orange;5.94;Chicago;United States
+T6738;03/07/24;Orange;9.61;Los Angeles;United States
+T7130;03/07/24;Banana;13.21;Los Angeles;United States
+T2251;03/07/24;Banana;8.48;San Francisco;United States
+T9665;03/07/24;Bread;16.08;New York;United States
+T4728;03/07/24;Orange;14.34;New York;United States
+T1714;04/07/24;Cheese;11.12;Los Angeles;United States
+T4487;04/07/24;Orange;5.92;Chicago;United States
+T8699;04/07/24;Milk;14.82;Los Angeles;United States
+T9047;04/07/24;Orange;2.07;San Francisco;United States
+T3550;04/07/24;Orange;18.99;Los Angeles;United States
+T5412;05/07/24;Eggs;3.1;Houston;United States
+T1472;05/07/24;Eggs;19.06;Los Angeles;United States
+T2469;05/07/24;Cheese;4.8;Houston;United States
+T7090;05/07/24;Milk;17.84;New York;United States
+T7957;05/07/24;Orange;5.83;Chicago;United States
+T8805;06/07/24;Cheese;13.97;Houston;United States
+T9624;06/07/24;Cheese;9.4;San Francisco;United States
+T4466;06/07/24;Butter;17.67;Los Angeles;United States
+T3705;06/07/24;Bread;5.87;Los Angeles;United States
+T3446;06/07/24;Bread;7.68;Los Angeles;United States
+T5447;07/07/24;Eggs;17.77;Chicago;United States
+T2463;07/07/24;Milk;6.63;New York;United States
+T6312;07/07/24;Apple;0.72;Chicago;United States
+T8221;07/07/24;Orange;15.23;San Francisco;United States
+T6401;07/07/24;Orange;7.22;Houston;United States
+T6300;08/07/24;Bread;5.81;Chicago;United States
+T2399;08/07/24;Eggs;18.21;New York;United States
+T7935;08/07/24;Orange;0.67;San Francisco;United States
+T4691;08/07/24;Bread;1.34;San Francisco;United States
+T1944;08/07/24;Butter;2.73;San Francisco;United States
+T1088;09/07/24;Apple;11.09;Chicago;United States
+T5956;09/07/24;Butter;10.7;Chicago;United States
+T2649;09/07/24;Apple;3.57;New York;United States
+T4552;09/07/24;Apple;8.78;San Francisco;United States
+T2930;09/07/24;Apple;10.81;San Francisco;United States
+T4086;10/07/24;Butter;18.13;Houston;United States
+T1754;10/07/24;Butter;17.97;Chicago;United States
+T5248;10/07/24;Bread;16.82;Los Angeles;United States
+T8721;10/07/24;Apple;9.34;Chicago;United States
+T7738;10/07/24;Butter;10.12;Chicago;United States
+T6707;11/07/24;Eggs;13.81;Los Angeles;United States
+T8614;11/07/24;Bread;8.71;New York;United States
+T2429;11/07/24;Apple;7.46;New York;United States
+T5105;11/07/24;Apple;1.76;Chicago;United States
+T6622;11/07/24;Butter;6.92;San Francisco;United States
+T8573;12/07/24;Banana;9.73;Houston;United States
+T9008;12/07/24;Apple;3.44;Los Angeles;United States
+T6596;12/07/24;Banana;17.94;San Francisco;United States
+T7957;12/07/24;Apple;6.52;Chicago;United States
+T6784;12/07/24;Cheese;8.41;Chicago;United States
+T8096;13/07/24;Apple;16.79;New York;United States
+T8014;13/07/24;Orange;14.65;Chicago;United States
+T5878;13/07/24;Milk;9.06;Houston;United States
+T3689;13/07/24;Bread;5.42;Los Angeles;United States
+T2431;13/07/24;Orange;5.38;Los Angeles;United States
+T7353;14/07/24;Banana;10.68;San Francisco;United States
+T8584;14/07/24;Bread;17.05;New York;United States
+T9765;14/07/24;Milk;18.22;New York;United States
+T9559;14/07/24;Milk;12.46;Los Angeles;United States
+T4190;14/07/24;Cheese;13.07;New York;United States
+T9653;15/07/24;Banana;13.07;New York;United States
+T5043;15/07/24;Orange;18.56;Chicago;United States
+T7113;15/07/24;Banana;5.63;Chicago;United States
+T5830;15/07/24;Bread;12.21;New York;United States
+T3918;15/07/24;Eggs;18.11;New York;United States
+T7402;16/07/24;Apple;5.32;San Francisco;United States
+T4393;16/07/24;Milk;12.53;Houston;United States
+T3087;16/07/24;Eggs;8.9;New York;United States
+T4865;16/07/24;Bread;6.68;San Francisco;United States
+T9793;16/07/24;Cheese;6.73;Houston;United States
+T3834;17/07/24;Banana;4.78;Los Angeles;United States
+T5120;17/07/24;Cheese;5.09;Chicago;United States
+T8658;17/07/24;Butter;7.79;Los Angeles;United States
+T2567;17/07/24;Orange;2.12;New York;United States
+T7441;17/07/24;Bread;11.54;San Francisco;United States
+T7347;18/07/24;Cheese;18.11;New York;United States
+T7406;18/07/24;Banana;7.09;Los Angeles;United States
+T6503;18/07/24;Apple;9.15;Los Angeles;United States
+T4427;18/07/24;Banana;8.51;Chicago;United States
+T4038;18/07/24;Butter;8.43;Chicago;United States
+T7000;19/07/24;Butter;18.86;New York;United States
+T7592;19/07/24;Orange;3.87;New York;United States
+T3384;19/07/24;Orange;1.67;Chicago;United States
+T6845;19/07/24;Eggs;1.14;Los Angeles;United States
+T6220;19/07/24;Banana;3.73;New York;United States
+T2950;20/07/24;Eggs;13.23;New York;United States
+T1966;20/07/24;Cheese;19.84;Chicago;United States
+T3398;20/07/24;Bread;9.17;Los Angeles;United States
+T8805;20/07/24;Orange;18.46;San Francisco;United States
+T2323;20/07/24;Apple;10.87;Houston;United States
+T3013;21/07/24;Banana;4.11;Chicago;United States
+T9840;21/07/24;Banana;4.11;Chicago;United States
+T4157;21/07/24;Orange;13.6;Chicago;United States
+T1874;21/07/24;Apple;16.96;Houston;United States
+T2499;21/07/24;Milk;11.88;San Francisco;United States
+T1890;22/07/24;Banana;18.31;Los Angeles;United States
+T4182;22/07/24;Cheese;19.81;Houston;United States
+T3064;22/07/24;Cheese;4.72;Chicago;United States
+T7839;22/07/24;Banana;5.84;Houston;United States
+T9960;22/07/24;Bread;19.97;Chicago;United States
+T7136;23/07/24;Apple;2.35;Houston;United States
+T5671;23/07/24;Cheese;2.52;Houston;United States
+T3760;23/07/24;Butter;11.01;Chicago;United States
+T3500;23/07/24;Milk;10.52;Chicago;United States
+T3788;23/07/24;Butter;1.2;Chicago;United States
+T5677;24/07/24;Cheese;7.15;Chicago;United States
+T1627;24/07/24;Cheese;9.15;New York;United States
+T8405;24/07/24;Milk;2.26;San Francisco;United States
+T1649;24/07/24;Butter;3.82;Houston;United States
+T3418;24/07/24;Orange;14.45;New York;United States
+T8652;25/07/24;Apple;12.89;Los Angeles;United States
+T7698;25/07/24;Eggs;5.05;Los Angeles;United States
+T1057;25/07/24;Banana;15.49;Houston;United States
+T6288;25/07/24;Bread;15.88;Houston;United States
+T3249;25/07/24;Apple;12.66;San Francisco;United States
+T2502;26/07/24;Apple;2.35;Los Angeles;United States
+T5315;26/07/24;Milk;8.99;Houston;United States
+T8452;26/07/24;Apple;8.87;Houston;United States
+T9847;26/07/24;Eggs;5.29;New York;United States
+T7816;26/07/24;Banana;9.12;Chicago;United States
+T4842;27/07/24;Apple;0.55;Los Angeles;United States
+T6296;27/07/24;Orange;15.49;Chicago;United States
+T9458;27/07/24;Eggs;8.24;Chicago;United States
+T8170;27/07/24;Butter;17.24;New York;United States
+T4432;27/07/24;Orange;14.66;San Francisco;United States
+T7799;28/07/24;Cheese;4.79;Chicago;United States
+T8836;28/07/24;Banana;9.15;New York;United States
+T3634;28/07/24;Cheese;17.56;Los Angeles;United States
+T7019;28/07/24;Milk;6.92;New York;United States
+T2957;28/07/24;Eggs;5.84;Houston;United States
+T9503;29/07/24;Butter;19.48;Houston;United States
+T3862;29/07/24;Orange;12.12;Houston;United States
+T6895;29/07/24;Bread;2.9;New York;United States
+T5117;29/07/24;Bread;5.99;New York;United States
+T9145;29/07/24;Butter;16.65;Chicago;United States
+T8040;30/07/24;Banana;10.76;San Francisco;United States
+T4319;30/07/24;Banana;16.5;Chicago;United States
+T8580;30/07/24;Eggs;4.24;San Francisco;United States
+T2300;30/07/24;Bread;2.54;New York;United States
+T6686;30/07/24;Apple;13.13;New York;United States
+T5161;31/07/24;Orange;7.52;Chicago;United States
+T2753;31/07/24;Milk;10.62;Houston;United States
+T5600;31/07/24;Apple;14.1;Los Angeles;United States
+T9120;31/07/24;Apple;11.4;Chicago;United States
+T8836;31/07/24;Milk;2.65;Los Angeles;United States
+T1407;01/08/24;Apple;5.02;Houston;United States
+T7454;01/08/24;Butter;18.22;Houston;United States
+T5171;01/08/24;Apple;6.33;New York;United States
+T6862;01/08/24;Eggs;14.18;New York;United States
+T9548;01/08/24;Orange;9.52;Los Angeles;United States
+T8605;02/08/24;Orange;10.18;Los Angeles;United States
+T1630;02/08/24;Milk;12.83;Chicago;United States
+T4255;02/08/24;Orange;13.08;New York;United States
+T8315;02/08/24;Eggs;6.33;Houston;United States
+T6588;02/08/24;Milk;19.52;Los Angeles;United States
+T4972;03/08/24;Apple;4.62;Houston;United States
+T8110;03/08/24;Banana;3.61;Los Angeles;United States
+T7281;03/08/24;Banana;5.79;San Francisco;United States
+T6229;03/08/24;Apple;4.17;Los Angeles;United States
+T9691;03/08/24;Cheese;18.72;Los Angeles;United States
+T5082;04/08/24;Milk;4.16;Los Angeles;United States
+T8510;04/08/24;Butter;13.14;New York;United States
+T5039;04/08/24;Banana;4.5;Chicago;United States
+T6751;04/08/24;Cheese;11.36;New York;United States
+T6700;04/08/24;Bread;13.43;Los Angeles;United States
+T2339;05/08/24;Orange;10.7;Houston;United States
+T6432;05/08/24;Butter;10.44;San Francisco;United States
+T1891;05/08/24;Bread;15;Chicago;United States
+T3674;05/08/24;Banana;15.8;Los Angeles;United States
+T9636;05/08/24;Orange;4.63;Los Angeles;United States
+T6378;06/08/24;Eggs;9.39;Chicago;United States
+T3388;06/08/24;Banana;19.43;Los Angeles;United States
+T7887;06/08/24;Orange;15.61;San Francisco;United States
+T7546;06/08/24;Eggs;6.83;Houston;United States
+T1569;06/08/24;Apple;5.96;Houston;United States
+T6619;07/08/24;Eggs;14.28;Los Angeles;United States
+T4445;07/08/24;Cheese;18.68;Chicago;United States
+T1591;07/08/24;Banana;17.23;New York;United States
+T9242;07/08/24;Cheese;13.24;Los Angeles;United States
+T5192;07/08/24;Bread;8.66;Chicago;United States
+T4831;08/08/24;Apple;16.94;Los Angeles;United States
+T4282;08/08/24;Bread;10.42;Chicago;United States
+T7840;08/08/24;Butter;18.88;Los Angeles;United States
+T5470;08/08/24;Cheese;10.78;San Francisco;United States
+T8938;08/08/24;Banana;3.4;Chicago;United States
+T2212;09/08/24;Eggs;17.46;Houston;United States
+T8114;09/08/24;Banana;8.82;Houston;United States
+T9857;09/08/24;Butter;11.66;San Francisco;United States
+T5366;09/08/24;Milk;10.82;Houston;United States
+T8182;09/08/24;Orange;5.25;Houston;United States
+T8217;10/08/24;Banana;17.89;Los Angeles;United States
+T8865;10/08/24;Banana;9.71;Houston;United States
+T1289;10/08/24;Eggs;14.95;Houston;United States
+T4423;10/08/24;Banana;18.27;Chicago;United States
+T7141;10/08/24;Orange;4.94;Houston;United States
+T1156;11/08/24;Banana;16.73;Los Angeles;United States
+T8395;11/08/24;Apple;16.4;San Francisco;United States
+T3070;11/08/24;Cheese;11.11;Houston;United States
+T8960;11/08/24;Apple;16.3;San Francisco;United States
+T6484;11/08/24;Eggs;2.64;Chicago;United States
+T1433;12/08/24;Banana;5.09;Houston;United States
+T8609;12/08/24;Eggs;7.85;Los Angeles;United States
+T4594;12/08/24;Butter;5.04;Los Angeles;United States
+T1561;12/08/24;Milk;8.27;Los Angeles;United States
+T2189;12/08/24;Orange;13.35;San Francisco;United States
+T3372;13/08/24;Butter;10.16;Houston;United States
+T8578;13/08/24;Butter;10.48;San Francisco;United States
+T4512;13/08/24;Orange;12.09;San Francisco;United States
+T1184;13/08/24;Milk;16.27;San Francisco;United States
+T2622;13/08/24;Cheese;5.12;Chicago;United States
+T1406;14/08/24;Orange;8;Houston;United States
+T9415;14/08/24;Milk;6.95;Chicago;United States
+T8481;14/08/24;Eggs;13.02;Los Angeles;United States
+T3673;14/08/24;Milk;16.53;Houston;United States
+T1157;14/08/24;Bread;14.05;Houston;United States
+T8341;15/08/24;Apple;4.32;Los Angeles;United States
+T3146;15/08/24;Eggs;13.4;Los Angeles;United States
+T4665;15/08/24;Milk;11.23;Houston;United States
+T6168;15/08/24;Milk;7.31;Chicago;United States
+T9485;15/08/24;Eggs;14.37;San Francisco;United States
+T7486;16/08/24;Apple;11.84;Chicago;United States
+T2790;16/08/24;Banana;5.86;Houston;United States
+T2287;16/08/24;Cheese;11.08;Houston;United States
+T9501;16/08/24;Orange;17.17;New York;United States
+T7492;16/08/24;Apple;8.08;Houston;United States
+T3423;17/08/24;Orange;1.64;Houston;United States
+T3089;17/08/24;Eggs;6.14;New York;United States
+T1742;17/08/24;Milk;5.32;New York;United States
+T4787;17/08/24;Banana;6.94;Houston;United States
+T2504;17/08/24;Apple;11.54;San Francisco;United States
+T2590;18/08/24;Cheese;18.55;Los Angeles;United States
+T1171;18/08/24;Bread;11.07;San Francisco;United States
+T7849;18/08/24;Orange;6.75;Los Angeles;United States
+T6775;18/08/24;Bread;4.86;New York;United States
+T6655;18/08/24;Milk;14.53;San Francisco;United States
+T5277;19/08/24;Eggs;1.28;San Francisco;United States
+T5555;19/08/24;Milk;7.99;Houston;United States
+T7165;19/08/24;Banana;13.15;New York;United States
+T9788;19/08/24;Cheese;5.22;Chicago;United States
+T2357;19/08/24;Orange;6.11;Chicago;United States
+T3028;20/08/24;Apple;18.32;Houston;United States
+T7921;20/08/24;Orange;17.83;Los Angeles;United States
+T4953;20/08/24;Milk;6.79;San Francisco;United States
+T1701;20/08/24;Orange;12.46;Los Angeles;United States
+T3742;20/08/24;Butter;19.53;Los Angeles;United States
+T1360;21/08/24;Bread;18.86;San Francisco;United States
+T8933;21/08/24;Cheese;6.07;New York;United States
+T1149;21/08/24;Bread;17.03;Chicago;United States
+T2047;21/08/24;Apple;2.58;New York;United States
+T3942;21/08/24;Bread;10.93;Houston;United States
+T3422;22/08/24;Apple;12.68;Los Angeles;United States
+T6809;22/08/24;Apple;14.63;Los Angeles;United States
+T2042;22/08/24;Bread;6.19;San Francisco;United States
+T8285;22/08/24;Bread;15.83;Chicago;United States
+T6942;22/08/24;Cheese;8.62;New York;United States
+T5244;23/08/24;Apple;4.06;Los Angeles;United States
+T8856;23/08/24;Butter;4.57;San Francisco;United States
+T1077;23/08/24;Cheese;7.43;Los Angeles;United States
+T2806;23/08/24;Orange;18.12;New York;United States
+T2029;23/08/24;Bread;2.07;New York;United States
+T8754;24/08/24;Bread;12.12;San Francisco;United States
+T4904;24/08/24;Banana;19.03;Los Angeles;United States
+T6315;24/08/24;Milk;9.3;Los Angeles;United States
+T7041;24/08/24;Banana;13.03;San Francisco;United States
+T2889;24/08/24;Orange;6.48;New York;United States
+T3464;25/08/24;Banana;4;New York;United States
+T8419;25/08/24;Apple;11.45;San Francisco;United States
+T6178;25/08/24;Butter;16.89;New York;United States
+T4897;25/08/24;Bread;17.45;New York;United States
+T4887;25/08/24;Bread;12.76;Los Angeles;United States
+T2441;26/08/24;Banana;10.88;Chicago;United States
+T4534;26/08/24;Banana;4.81;Los Angeles;United States
+T1762;26/08/24;Orange;16.68;Chicago;United States
+T6293;26/08/24;Banana;0.73;Chicago;United States
+T5136;26/08/24;Orange;3.02;Houston;United States
+T3063;27/08/24;Butter;14.11;Los Angeles;United States
+T8318;27/08/24;Orange;6.48;Los Angeles;United States
+T1161;27/08/24;Banana;6.15;Los Angeles;United States
+T8893;27/08/24;Orange;15.39;San Francisco;United States
+T3995;27/08/24;Banana;5.24;Chicago;United States
+T7769;28/08/24;Cheese;9.03;San Francisco;United States
+T3816;28/08/24;Eggs;9.24;Los Angeles;United States
+T3254;28/08/24;Butter;15.18;Chicago;United States
+T5637;28/08/24;Bread;0.9;New York;United States
+T4685;28/08/24;Apple;9.35;Chicago;United States
+T1710;29/08/24;Bread;5.6;Houston;United States
+T4030;29/08/24;Banana;15.96;San Francisco;United States
+T8321;29/08/24;Apple;6.79;San Francisco;United States
+T7822;29/08/24;Butter;8.76;New York;United States
+T3720;29/08/24;Banana;10.23;New York;United States
+T7442;30/08/24;Eggs;19.6;Chicago;United States
+T4883;30/08/24;Butter;13.85;New York;United States
+T6934;30/08/24;Eggs;5.61;New York;United States
+T8584;30/08/24;Milk;4.28;Los Angeles;United States
+T5355;30/08/24;Banana;13.15;Los Angeles;United States
+T9137;31/08/24;Milk;11.37;Los Angeles;United States
+T3646;31/08/24;Eggs;12.45;Houston;United States
+T7302;31/08/24;Apple;9.67;San Francisco;United States
+T5047;31/08/24;Butter;13.13;Chicago;United States
+T6349;31/08/24;Eggs;14.08;Houston;United States
+T7321;01/09/24;Orange;6.26;New York;United States
+T4422;01/09/24;Orange;15.77;Houston;United States
+T8643;01/09/24;Banana;5.43;Los Angeles;United States
+T7347;01/09/24;Butter;8.31;Chicago;United States
+T2081;01/09/24;Eggs;18.93;San Francisco;United States
+T8383;02/09/24;Banana;7.74;San Francisco;United States
+T3615;02/09/24;Apple;9.53;Chicago;United States
+T3915;02/09/24;Milk;16.47;San Francisco;United States
+T5077;02/09/24;Banana;13.71;Houston;United States
+T7791;02/09/24;Banana;8.46;New York;United States
+T2809;03/09/24;Bread;8.43;San Francisco;United States
+T5413;03/09/24;Milk;11.44;Los Angeles;United States
+T3416;03/09/24;Banana;5.3;San Francisco;United States
+T9225;03/09/24;Cheese;13.28;Chicago;United States
+T1365;03/09/24;Butter;8.44;Chicago;United States
+T2281;04/09/24;Butter;11.48;Los Angeles;United States
+T5939;04/09/24;Eggs;15.17;New York;United States
+T7514;04/09/24;Orange;11.48;San Francisco;United States
+T5201;04/09/24;Eggs;19.65;San Francisco;United States
+T5056;04/09/24;Banana;19.78;San Francisco;United States
+T7996;05/09/24;Orange;12.7;Los Angeles;United States
+T1730;05/09/24;Apple;9.72;San Francisco;United States
+T2763;05/09/24;Bread;18.94;Chicago;United States
+T6450;05/09/24;Apple;2.91;Chicago;United States
+T8380;05/09/24;Cheese;11.34;Los Angeles;United States
+T4754;06/09/24;Eggs;15.22;Houston;United States
+T2636;06/09/24;Banana;0.65;New York;United States
+T4543;06/09/24;Apple;1.01;Houston;United States
+T1573;06/09/24;Orange;17.7;San Francisco;United States
+T2214;06/09/24;Cheese;16.75;Chicago;United States
+T5826;07/09/24;Bread;11.45;Chicago;United States
+T1566;07/09/24;Cheese;9.78;Houston;United States
+T8650;07/09/24;Orange;3.35;Houston;United States
+T8160;07/09/24;Orange;5.67;Chicago;United States
+T3119;07/09/24;Butter;19.64;Los Angeles;United States
+T2801;08/09/24;Eggs;9.52;New York;United States
+T8506;08/09/24;Eggs;14.3;New York;United States
+T5753;08/09/24;Cheese;17.15;San Francisco;United States
+T5313;08/09/24;Butter;7.96;Los Angeles;United States
+T4423;08/09/24;Orange;18.66;San Francisco;United States
+T5682;09/09/24;Milk;11.41;Los Angeles;United States
+T6194;09/09/24;Orange;17.33;San Francisco;United States
+T6923;09/09/24;Cheese;16.36;New York;United States
+T1568;09/09/24;Butter;8.32;New York;United States
+T1135;09/09/24;Apple;11.65;San Francisco;United States
+T4548;10/09/24;Bread;14.08;Los Angeles;United States
+T3991;10/09/24;Bread;1.79;Houston;United States
+T5382;10/09/24;Orange;15.58;New York;United States
+T7465;10/09/24;Bread;19.33;San Francisco;United States
+T6069;10/09/24;Apple;1.93;Los Angeles;United States
+T9772;11/09/24;Apple;18.42;Los Angeles;United States
+T7859;11/09/24;Eggs;14.38;New York;United States
+T5196;11/09/24;Milk;8.27;Houston;United States
+T3751;11/09/24;Bread;2.52;Los Angeles;United States
+T3943;11/09/24;Butter;16.26;New York;United States
+T1045;12/09/24;Bread;8.16;Los Angeles;United States
+T1078;12/09/24;Milk;8.01;Houston;United States
+T9976;12/09/24;Cheese;8.93;New York;United States
+T3331;12/09/24;Banana;18.24;New York;United States
+T9945;12/09/24;Bread;18.16;New York;United States
+T3429;13/09/24;Banana;10.47;Houston;United States
+T7113;13/09/24;Cheese;18.62;Los Angeles;United States
+T5015;13/09/24;Orange;1.94;Los Angeles;United States
+T5228;13/09/24;Milk;13.44;Chicago;United States
+T6416;13/09/24;Milk;19.81;Los Angeles;United States
+T7421;14/09/24;Orange;17.99;Houston;United States
+T1998;14/09/24;Eggs;2.15;Chicago;United States
+T8690;14/09/24;Banana;7.07;Houston;United States
+T5223;14/09/24;Milk;0.88;Los Angeles;United States
+T6515;14/09/24;Banana;17.21;San Francisco;United States
+T7606;15/09/24;Bread;10.36;Chicago;United States
+T2728;15/09/24;Eggs;7.88;San Francisco;United States
+T5206;15/09/24;Apple;11;New York;United States
+T9722;15/09/24;Bread;4.41;San Francisco;United States
+T1124;15/09/24;Eggs;14.68;Chicago;United States
+T2678;16/09/24;Eggs;16.31;San Francisco;United States
+T2118;16/09/24;Butter;9.19;New York;United States
+T9768;16/09/24;Orange;5.64;Houston;United States
+T8219;16/09/24;Cheese;4.27;Chicago;United States
+T8096;16/09/24;Milk;6.9;New York;United States
+T1574;17/09/24;Milk;4.86;Houston;United States
+T9441;17/09/24;Eggs;10.63;Los Angeles;United States
+T9787;17/09/24;Bread;14.48;Los Angeles;United States
+T5920;17/09/24;Bread;1.54;Chicago;United States
+T3507;17/09/24;Eggs;14.03;New York;United States
+T1839;18/09/24;Milk;17.93;Houston;United States
+T4548;18/09/24;Milk;19.39;San Francisco;United States
+T9797;18/09/24;Eggs;4.56;New York;United States
+T7833;18/09/24;Eggs;11.19;Los Angeles;United States
+T1371;18/09/24;Eggs;1.32;New York;United States
+T5340;19/09/24;Butter;19.03;Chicago;United States
+T2317;19/09/24;Apple;3.27;Houston;United States
+T9915;19/09/24;Cheese;9.58;Chicago;United States
+T3737;19/09/24;Butter;14.32;Houston;United States
+T4315;19/09/24;Cheese;19.34;Los Angeles;United States
+T5458;20/09/24;Eggs;7.14;Los Angeles;United States
+T8303;20/09/24;Milk;4.51;Houston;United States
+T8139;20/09/24;Butter;9.35;New York;United States
+T4717;20/09/24;Butter;5.03;San Francisco;United States
+T7795;20/09/24;Eggs;4.32;Los Angeles;United States
+T2959;21/09/24;Cheese;6.02;New York;United States
+T9445;21/09/24;Butter;9.12;San Francisco;United States
+T1574;21/09/24;Cheese;13.85;Houston;United States
+T8640;21/09/24;Butter;18.56;New York;United States
+T7145;21/09/24;Butter;11.62;Los Angeles;United States
+T7310;22/09/24;Milk;7.34;San Francisco;United States
+T8797;22/09/24;Orange;6.34;New York;United States
+T3166;22/09/24;Eggs;5.77;New York;United States
+T4079;22/09/24;Banana;10.91;Los Angeles;United States
+T2269;22/09/24;Banana;6.18;Los Angeles;United States
+T8525;23/09/24;Bread;9.06;San Francisco;United States
+T8535;23/09/24;Orange;8.34;San Francisco;United States
+T9363;23/09/24;Bread;6.07;Houston;United States
+T7246;23/09/24;Cheese;11.6;Los Angeles;United States
+T2176;23/09/24;Apple;14.9;Houston;United States
+T5660;24/09/24;Butter;15.21;Houston;United States
+T1378;24/09/24;Milk;3.14;Los Angeles;United States
+T6102;24/09/24;Bread;14.55;Los Angeles;United States
+T4533;24/09/24;Eggs;5.41;San Francisco;United States
+T6393;24/09/24;Cheese;12.41;Houston;United States
+T1390;25/09/24;Milk;2.33;San Francisco;United States
+T4288;25/09/24;Banana;10.38;San Francisco;United States
+T3905;25/09/24;Bread;1.09;New York;United States
+T8612;25/09/24;Butter;8.94;Houston;United States
+T4257;25/09/24;Banana;9.62;San Francisco;United States
+T6136;26/09/24;Cheese;2.06;San Francisco;United States
+T9244;26/09/24;Cheese;16.15;Houston;United States
+T3631;26/09/24;Banana;3.54;San Francisco;United States
+T8707;26/09/24;Milk;18.55;Los Angeles;United States
+T1893;26/09/24;Bread;11.47;Los Angeles;United States
+T5976;27/09/24;Cheese;9.61;Los Angeles;United States
+T9571;27/09/24;Bread;1.59;Houston;United States
+T8910;27/09/24;Milk;13.43;San Francisco;United States
+T2555;27/09/24;Orange;15.52;Chicago;United States
+T3008;27/09/24;Banana;19.06;San Francisco;United States
+T7414;28/09/24;Bread;0.96;Chicago;United States
+T9026;28/09/24;Banana;17.66;Los Angeles;United States
+T4145;28/09/24;Orange;15.23;New York;United States
+T9521;28/09/24;Apple;0.53;Chicago;United States
+T7015;28/09/24;Apple;19.3;Houston;United States
+T2621;29/09/24;Banana;7.82;Houston;United States
+T6659;29/09/24;Banana;6.91;Los Angeles;United States
+T2364;29/09/24;Banana;14.58;Los Angeles;United States
+T1521;29/09/24;Apple;0.86;Chicago;United States
+T1481;29/09/24;Orange;2.34;Los Angeles;United States
+T5665;30/09/24;Banana;7.55;Los Angeles;United States
+T7149;30/09/24;Milk;12.31;New York;United States
+T3326;30/09/24;Butter;14.71;Chicago;United States
+T8190;30/09/24;Milk;12.32;San Francisco;United States
+T5895;30/09/24;Milk;6.79;Houston;United States
+T4642;01/10/24;Bread;18.32;New York;United States
+T8283;01/10/24;Orange;0.64;Chicago;United States
+T9154;01/10/24;Banana;14.5;Chicago;United States
+T1980;01/10/24;Butter;15.13;Chicago;United States
+T8708;01/10/24;Banana;19.09;San Francisco;United States
+T9878;02/10/24;Butter;7.54;Houston;United States
+T9825;02/10/24;Milk;19.25;Los Angeles;United States
+T2534;02/10/24;Butter;17.86;Houston;United States
+T8198;02/10/24;Butter;15.97;Chicago;United States
+T4919;02/10/24;Banana;8.92;San Francisco;United States
+T8458;03/10/24;Eggs;14.6;Houston;United States
+T6081;03/10/24;Milk;1.84;Los Angeles;United States
+T8285;03/10/24;Cheese;8.31;Los Angeles;United States
+T7277;03/10/24;Cheese;17.9;New York;United States
+T8138;03/10/24;Milk;3.77;Los Angeles;United States
+T4186;04/10/24;Apple;18.39;Los Angeles;United States
+T6053;04/10/24;Orange;7.06;Chicago;United States
+T9127;04/10/24;Milk;9.35;New York;United States
+T9886;04/10/24;Bread;17.11;Chicago;United States
+T9281;04/10/24;Cheese;11.75;Houston;United States
+T4780;05/10/24;Banana;1.94;Los Angeles;United States
+T3983;05/10/24;Cheese;2.76;Houston;United States
+T4893;05/10/24;Cheese;11.5;San Francisco;United States
+T3951;05/10/24;Milk;6.87;Chicago;United States
+T9183;05/10/24;Milk;4.4;San Francisco;United States
+T8608;06/10/24;Cheese;2.82;Chicago;United States
+T5799;06/10/24;Orange;12.25;Chicago;United States
+T3718;06/10/24;Milk;18.87;New York;United States
+T2280;06/10/24;Banana;1.2;San Francisco;United States
+T4580;06/10/24;Apple;9.58;Houston;United States
+T6370;07/10/24;Butter;0.97;New York;United States
+T2023;07/10/24;Banana;19.02;Los Angeles;United States
+T2608;07/10/24;Bread;11.5;New York;United States
+T7798;07/10/24;Milk;17.9;Los Angeles;United States
+T7312;07/10/24;Butter;6;Los Angeles;United States
+T4486;08/10/24;Milk;5.66;New York;United States
+T1657;08/10/24;Orange;5.52;New York;United States
+T2508;08/10/24;Eggs;5.27;New York;United States
+T5994;08/10/24;Eggs;7.43;New York;United States
+T6796;08/10/24;Apple;12.36;Los Angeles;United States
+T2001;09/10/24;Orange;0.72;Los Angeles;United States
+T8777;09/10/24;Milk;3.83;Chicago;United States
+T8078;09/10/24;Apple;5.77;Los Angeles;United States
+T5930;09/10/24;Apple;10.84;Chicago;United States
+T3616;09/10/24;Butter;6.15;Los Angeles;United States
+T7675;10/10/24;Orange;5.96;Los Angeles;United States
+T1621;10/10/24;Eggs;3.99;San Francisco;United States
+T8609;10/10/24;Bread;18.61;San Francisco;United States
+T1983;10/10/24;Cheese;2.63;Los Angeles;United States
+T3251;10/10/24;Banana;19.81;San Francisco;United States
+T4324;11/10/24;Banana;3.87;Chicago;United States
+T9545;11/10/24;Apple;14.58;San Francisco;United States
+T2815;11/10/24;Apple;3.55;New York;United States
+T6223;11/10/24;Bread;14.94;New York;United States
+T5503;11/10/24;Butter;19.98;Chicago;United States
+T9305;12/10/24;Cheese;2.29;Los Angeles;United States
+T5637;12/10/24;Bread;4.57;Chicago;United States
+T6707;12/10/24;Butter;15.92;Los Angeles;United States
+T4246;12/10/24;Milk;8.47;Chicago;United States
+T6310;12/10/24;Bread;4.53;San Francisco;United States
+T8440;13/10/24;Eggs;18.16;San Francisco;United States
+T7835;13/10/24;Milk;12.98;Houston;United States
+T9811;13/10/24;Apple;14.18;Houston;United States
+T7145;13/10/24;Apple;15.47;Houston;United States
+T8012;13/10/24;Bread;15.93;Houston;United States
+T8372;14/10/24;Bread;19.29;Los Angeles;United States
+T3429;14/10/24;Orange;16.98;Los Angeles;United States
+T5000;14/10/24;Butter;13.82;New York;United States
+T1840;14/10/24;Cheese;3.78;Houston;United States
+T3262;14/10/24;Milk;19.45;Houston;United States
+T9340;15/10/24;Apple;9.91;New York;United States
+T9734;15/10/24;Bread;11.04;Los Angeles;United States
+T6289;15/10/24;Eggs;18.95;Chicago;United States
+T3373;15/10/24;Cheese;11.54;New York;United States
+T9724;15/10/24;Bread;17.58;Los Angeles;United States
+T2910;16/10/24;Butter;10.66;Los Angeles;United States
+T2649;16/10/24;Bread;5.21;Houston;United States
+T7216;16/10/24;Eggs;1.62;San Francisco;United States
+T2276;16/10/24;Milk;19.55;Los Angeles;United States
+T4130;16/10/24;Cheese;10.06;Chicago;United States
+T3820;17/10/24;Milk;9.38;San Francisco;United States
+T6698;17/10/24;Bread;19.12;Los Angeles;United States
+T9389;17/10/24;Cheese;7;Los Angeles;United States
+T3195;17/10/24;Butter;0.93;New York;United States
+T4954;17/10/24;Eggs;15.2;Los Angeles;United States
+T3010;18/10/24;Bread;1;San Francisco;United States
+T7980;18/10/24;Eggs;13.67;Los Angeles;United States
+T2130;18/10/24;Apple;2.66;New York;United States
+T1134;18/10/24;Orange;18.19;Houston;United States
+T5109;18/10/24;Apple;6.64;San Francisco;United States
+T9462;19/10/24;Butter;14.48;San Francisco;United States
+T5505;19/10/24;Milk;15.26;Los Angeles;United States
+T3522;19/10/24;Banana;7.94;Chicago;United States
+T5192;19/10/24;Bread;12.54;Chicago;United States
+T2034;19/10/24;Apple;18.33;San Francisco;United States
+T8333;20/10/24;Butter;6.8;San Francisco;United States
+T9707;20/10/24;Cheese;14.88;Chicago;United States
+T5711;20/10/24;Apple;11.2;San Francisco;United States
+T1058;20/10/24;Eggs;0.99;Los Angeles;United States
+T7917;20/10/24;Apple;17.75;Los Angeles;United States
+T4482;21/10/24;Butter;9.34;Los Angeles;United States
+T7742;21/10/24;Cheese;14.39;Los Angeles;United States
+T6504;21/10/24;Orange;4.75;San Francisco;United States
+T1651;21/10/24;Milk;13;Chicago;United States
+T4426;21/10/24;Eggs;12.16;New York;United States
+T1731;22/10/24;Eggs;4.36;Houston;United States
+T7481;22/10/24;Milk;1.85;Houston;United States
+T2287;22/10/24;Milk;10.16;Los Angeles;United States
+T5069;22/10/24;Banana;13.8;San Francisco;United States
+T5668;22/10/24;Cheese;8.43;Chicago;United States
+T9138;23/10/24;Butter;11.87;Los Angeles;United States
+T4765;23/10/24;Eggs;5.55;San Francisco;United States
+T9395;23/10/24;Bread;5.93;Houston;United States
+T2922;23/10/24;Cheese;7.63;Chicago;United States
+T3601;23/10/24;Apple;0.52;Houston;United States
+T7645;24/10/24;Butter;3.65;Chicago;United States
+T8643;24/10/24;Bread;14.44;San Francisco;United States
+T6385;24/10/24;Apple;8.16;Houston;United States
+T8144;24/10/24;Bread;3.17;Los Angeles;United States
+T7427;24/10/24;Butter;17.56;New York;United States
+T6299;25/10/24;Orange;17.93;Houston;United States
+T7467;25/10/24;Cheese;6.59;Houston;United States
+T1096;25/10/24;Cheese;9.37;Los Angeles;United States
+T7953;25/10/24;Apple;8.11;Chicago;United States
+T1513;25/10/24;Cheese;12.6;New York;United States
+T8796;26/10/24;Butter;2.15;Chicago;United States
+T5151;26/10/24;Apple;17.68;Los Angeles;United States
+T6271;26/10/24;Apple;6.16;Chicago;United States
+T1956;26/10/24;Eggs;17.03;Houston;United States
+T6115;26/10/24;Bread;12.91;Houston;United States
+T3643;27/10/24;Apple;7.8;San Francisco;United States
+T8934;27/10/24;Milk;19.5;Los Angeles;United States
+T2881;27/10/24;Bread;4.35;San Francisco;United States
+T1438;27/10/24;Milk;2.19;Houston;United States
+T6763;27/10/24;Banana;4.08;Chicago;United States
+T7589;28/10/24;Cheese;4.52;Chicago;United States
+T3515;28/10/24;Milk;6.73;Los Angeles;United States
+T3863;28/10/24;Banana;4.5;Houston;United States
+T8406;28/10/24;Eggs;17.42;New York;United States
+T5789;28/10/24;Banana;15.52;Houston;United States
+T5816;29/10/24;Milk;14.41;Los Angeles;United States
+T6048;29/10/24;Orange;16.63;Chicago;United States
+T2652;29/10/24;Banana;6.35;Los Angeles;United States
+T9895;29/10/24;Eggs;19.06;New York;United States
+T7360;29/10/24;Orange;19.84;New York;United States
+T3543;30/10/24;Banana;14.64;Chicago;United States
+T9443;30/10/24;Milk;1.53;Houston;United States
+T4097;30/10/24;Bread;3.59;Los Angeles;United States
+T6754;30/10/24;Eggs;7.25;Los Angeles;United States
+T8246;30/10/24;Butter;6.89;New York;United States
+T3413;31/10/24;Banana;3.04;New York;United States
+T5244;31/10/24;Banana;5.45;San Francisco;United States
+T4401;31/10/24;Milk;2.94;Houston;United States
+T5758;31/10/24;Milk;18.26;Los Angeles;United States
+T7009;31/10/24;Bread;14.67;Chicago;United States
+T3584;01/11/24;Eggs;0.52;Houston;United States
+T7183;01/11/24;Milk;9.94;San Francisco;United States
+T9776;01/11/24;Bread;11.8;New York;United States
+T5624;01/11/24;Eggs;17.98;Houston;United States
+T3283;01/11/24;Banana;13.89;New York;United States
+T9258;02/11/24;Apple;19.32;New York;United States
+T7550;02/11/24;Bread;4.9;Chicago;United States
+T2200;02/11/24;Cheese;8.27;New York;United States
+T1559;02/11/24;Orange;0.96;Houston;United States
+T7867;02/11/24;Bread;11.05;Los Angeles;United States
+T4540;03/11/24;Banana;9.86;Los Angeles;United States
+T1982;03/11/24;Eggs;3.18;Chicago;United States
+T6154;03/11/24;Butter;19.4;Houston;United States
+T5134;03/11/24;Milk;6.94;Houston;United States
+T6453;03/11/24;Milk;8.26;San Francisco;United States
+T7848;04/11/24;Bread;17.11;New York;United States
+T7581;04/11/24;Butter;16.37;Houston;United States
+T7994;04/11/24;Apple;15.04;Los Angeles;United States
+T3149;04/11/24;Cheese;19.63;Los Angeles;United States
+T3238;04/11/24;Apple;5.35;Los Angeles;United States
+T8787;05/11/24;Eggs;19.9;San Francisco;United States
+T5404;05/11/24;Milk;4.65;San Francisco;United States
+T6492;05/11/24;Butter;7.87;New York;United States
+T8252;05/11/24;Banana;7.59;San Francisco;United States
+T5280;05/11/24;Eggs;19.5;Chicago;United States
+T2736;06/11/24;Cheese;10.05;Houston;United States
+T7430;06/11/24;Cheese;18.26;Los Angeles;United States
+T8334;06/11/24;Milk;11.78;Houston;United States
+T2633;06/11/24;Eggs;17.52;New York;United States
+T1049;06/11/24;Cheese;0.85;Los Angeles;United States
+T2000;07/11/24;Bread;6.24;San Francisco;United States
+T4971;07/11/24;Butter;7.87;San Francisco;United States
+T7838;07/11/24;Butter;5.59;San Francisco;United States
+T8650;07/11/24;Cheese;19.43;New York;United States
+T1974;07/11/24;Bread;2.41;Los Angeles;United States
+T6943;08/11/24;Milk;13.93;Chicago;United States
+T1141;08/11/24;Banana;18.21;Houston;United States
+T2553;08/11/24;Bread;7.71;Houston;United States
+T6333;08/11/24;Orange;18.95;New York;United States
+T6875;08/11/24;Milk;6.05;New York;United States
+T9004;09/11/24;Eggs;17.25;New York;United States
+T1233;09/11/24;Milk;14.49;San Francisco;United States
+T3185;09/11/24;Eggs;14.05;Chicago;United States
+T6780;09/11/24;Bread;9.11;New York;United States
+T4136;09/11/24;Eggs;6.88;New York;United States
+T9820;10/11/24;Bread;11.84;Houston;United States
+T8066;10/11/24;Bread;19.84;Houston;United States
+T9374;10/11/24;Eggs;15.03;Chicago;United States
+T6576;10/11/24;Banana;3.93;New York;United States
+T9240;10/11/24;Cheese;19.04;Houston;United States
+T7325;11/11/24;Milk;6.28;Los Angeles;United States
+T6158;11/11/24;Banana;4.77;Chicago;United States
+T7735;11/11/24;Orange;17.28;New York;United States
+T8862;11/11/24;Bread;14.48;Los Angeles;United States
+T5151;11/11/24;Orange;2.87;Houston;United States
+T8870;12/11/24;Orange;2.81;New York;United States
+T2851;12/11/24;Apple;17.26;Los Angeles;United States
+T1991;12/11/24;Orange;19.31;New York;United States
+T1844;12/11/24;Banana;9.21;New York;United States
+T2240;12/11/24;Milk;7.61;Houston;United States
+T6467;13/11/24;Apple;11.86;Los Angeles;United States
+T6601;13/11/24;Apple;4.07;Los Angeles;United States
+T3424;13/11/24;Banana;5.07;Chicago;United States
+T3598;13/11/24;Milk;18;Chicago;United States
+T4354;13/11/24;Banana;16.56;Los Angeles;United States
+T9536;14/11/24;Eggs;9.49;Los Angeles;United States
+T9573;14/11/24;Butter;16.36;Chicago;United States
+T3360;14/11/24;Butter;16.09;Houston;United States
+T8910;14/11/24;Eggs;15.31;Houston;United States
+T5036;14/11/24;Orange;4.75;New York;United States
+T1940;15/11/24;Cheese;8.81;Chicago;United States
+T3361;15/11/24;Eggs;19.71;Los Angeles;United States
+T7678;15/11/24;Bread;13.17;New York;United States
+T1572;15/11/24;Bread;3.91;Los Angeles;United States
+T8274;15/11/24;Bread;9.69;Los Angeles;United States
+T6296;16/11/24;Butter;6.01;Los Angeles;United States
+T6638;16/11/24;Bread;14.61;Los Angeles;United States
+T9046;16/11/24;Banana;2.13;Houston;United States
+T1934;16/11/24;Eggs;7.44;Chicago;United States
+T7411;16/11/24;Bread;0.9;Chicago;United States
+T7426;17/11/24;Orange;11.64;Chicago;United States
+T3333;17/11/24;Butter;11.04;Chicago;United States
+T3848;17/11/24;Bread;0.63;Chicago;United States
+T3210;17/11/24;Banana;15.99;Houston;United States
+T1533;17/11/24;Bread;19.83;Los Angeles;United States
+T7359;18/11/24;Bread;3.51;Houston;United States
+T7551;18/11/24;Butter;18.82;Houston;United States
+T7418;18/11/24;Cheese;19.7;Houston;United States
+T5431;18/11/24;Eggs;14.8;San Francisco;United States
+T1155;18/11/24;Milk;7.61;Houston;United States
+T1154;19/11/24;Cheese;9.58;Los Angeles;United States
+T5955;19/11/24;Cheese;4.53;Houston;United States
+T2800;19/11/24;Butter;7.32;Houston;United States
+T3286;19/11/24;Bread;6.99;Houston;United States
+T4022;19/11/24;Banana;5.31;Los Angeles;United States
+T6123;20/11/24;Banana;13.91;Los Angeles;United States
+T7097;20/11/24;Cheese;1.73;Chicago;United States
+T3514;20/11/24;Butter;19.77;San Francisco;United States
+T7893;20/11/24;Apple;7.04;Los Angeles;United States
+T8194;20/11/24;Banana;3.35;Los Angeles;United States
+T6029;21/11/24;Orange;2.07;New York;United States
+T9248;21/11/24;Bread;10.96;New York;United States
+T1637;21/11/24;Apple;12.71;Chicago;United States
+T8974;21/11/24;Apple;3.58;San Francisco;United States
+T5730;21/11/24;Apple;11.08;Houston;United States
+T3424;22/11/24;Apple;10.97;New York;United States
+T4099;22/11/24;Banana;19.55;Los Angeles;United States
+T3992;22/11/24;Bread;9.17;Los Angeles;United States
+T8333;22/11/24;Eggs;5.17;Los Angeles;United States
+T6381;22/11/24;Cheese;4.61;Chicago;United States
+T9883;23/11/24;Eggs;3.28;Houston;United States
+T9605;23/11/24;Cheese;2.31;Los Angeles;United States
+T5269;23/11/24;Butter;11.35;Los Angeles;United States
+T4832;23/11/24;Bread;2.47;San Francisco;United States
+T5904;23/11/24;Apple;3.48;Houston;United States
+T5443;24/11/24;Banana;14.23;New York;United States
+T6080;24/11/24;Orange;7.31;Houston;United States
+T4195;24/11/24;Apple;19.06;Houston;United States
+T5889;24/11/24;Apple;16.93;Los Angeles;United States
+T4687;24/11/24;Eggs;16.08;San Francisco;United States
+T9456;25/11/24;Butter;5;Houston;United States
+T5247;25/11/24;Butter;12.35;San Francisco;United States
+T2598;25/11/24;Milk;7.29;Los Angeles;United States
+T4574;25/11/24;Apple;10.07;Los Angeles;United States
+T2391;25/11/24;Cheese;14.53;San Francisco;United States
+T5266;26/11/24;Milk;2.31;Los Angeles;United States
+T8077;26/11/24;Milk;18.29;New York;United States
+T3020;26/11/24;Butter;7.51;Los Angeles;United States
+T6536;26/11/24;Banana;18.41;San Francisco;United States
+T7049;26/11/24;Banana;1.08;New York;United States
+T5989;27/11/24;Butter;2.12;Houston;United States
+T6856;27/11/24;Milk;7.76;New York;United States
+T1938;27/11/24;Butter;11.61;New York;United States
+T7785;27/11/24;Apple;2.29;Chicago;United States
+T8448;27/11/24;Orange;10.85;Los Angeles;United States
+T1038;28/11/24;Orange;2.23;San Francisco;United States
+T7864;28/11/24;Milk;1.39;San Francisco;United States
+T1904;28/11/24;Orange;18.52;Los Angeles;United States
+T5624;28/11/24;Cheese;10.44;Chicago;United States
+T3617;28/11/24;Orange;15.07;Los Angeles;United States
+T6811;29/11/24;Orange;8.29;San Francisco;United States
+T3769;29/11/24;Banana;8.79;San Francisco;United States
+T5921;29/11/24;Cheese;16.77;Chicago;United States
+T5500;29/11/24;Cheese;10.56;Los Angeles;United States
+T3684;29/11/24;Orange;4.49;Houston;United States
+T6651;30/11/24;Butter;18.04;San Francisco;United States
+T9041;30/11/24;Butter;8.12;San Francisco;United States
+T1203;30/11/24;Cheese;6.04;San Francisco;United States
+T1165;30/11/24;Eggs;4.7;Houston;United States
+T1942;30/11/24;Apple;5.77;Chicago;United States
