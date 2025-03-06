@@ -10,8 +10,10 @@ This project analyzes **retail sales data** to extract insights that can help bu
 
 ### 🛠️ Tools & Libraries  
 - **Pandas** → Data manipulation  
-- **Matplotlib & Seaborn & plotly** → Data visualization  
-- **NumPy** → Numerical operations  
+- **Matplotlib & Seaborn** → Data visualization  
+- **NumPy** → Numerical operations
+- **scikit-learn** → forecast future sales trends
+- **Choose a Model** → Use **Linear Regression** for simple trend forecasting
 
 ### 📂 Dataset  
 The dataset contains transactional records, including:  
